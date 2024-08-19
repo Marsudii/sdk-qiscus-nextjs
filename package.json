@@ -1,0 +1,16 @@
+{
+  "name": "sdk-qiscus-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qiscus-sdk-core": "^2.12.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
